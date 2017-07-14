@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_nebiz_task_to_so_nebiz_task_to_so,nebiz_task_to_so.nebiz_task_to_so,model_nebiz_task_to_so_nebiz_task_to_so,,1,0,0,0
